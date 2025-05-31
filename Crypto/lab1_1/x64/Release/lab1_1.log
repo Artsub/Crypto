@@ -1,0 +1,75 @@
+﻿  DES.cpp
+D:\3-Study\Crypto\lab1_1\lab1_1\DESConfig.h(4,30): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "DES.cpp")
+  
+D:\3-Study\Crypto\lab1_1\lab1_1\DESConfig.h(11,30): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "DES.cpp")
+  
+D:\3-Study\Crypto\lab1_1\lab1_1\DESConfig.h(18,30): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "DES.cpp")
+  
+D:\3-Study\Crypto\lab1_1\lab1_1\DESConfig.h(29,30): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "DES.cpp")
+  
+D:\3-Study\Crypto\lab1_1\lab1_1\DESConfig.h(36,30): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "DES.cpp")
+  
+D:\3-Study\Crypto\lab1_1\lab1_1\DESConfig.h(43,30): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "DES.cpp")
+  
+D:\3-Study\Crypto\lab1_1\lab1_1\DESConfig.h(50,30): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "DES.cpp")
+  
+D:\3-Study\Crypto\lab1_1\lab1_1\DESConfig.h(54,56): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "DES.cpp")
+  
+  FeistelNetwork.cpp
+D:\3-Study\Crypto\lab1_1\lab1_1\DESConfig.h(4,30): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "FeistelNetwork.cpp")
+  
+D:\3-Study\Crypto\lab1_1\lab1_1\DESConfig.h(11,30): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "FeistelNetwork.cpp")
+  
+D:\3-Study\Crypto\lab1_1\lab1_1\DESConfig.h(18,30): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "FeistelNetwork.cpp")
+  
+D:\3-Study\Crypto\lab1_1\lab1_1\DESConfig.h(29,30): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "FeistelNetwork.cpp")
+  
+D:\3-Study\Crypto\lab1_1\lab1_1\DESConfig.h(36,30): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "FeistelNetwork.cpp")
+  
+D:\3-Study\Crypto\lab1_1\lab1_1\DESConfig.h(43,30): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "FeistelNetwork.cpp")
+  
+D:\3-Study\Crypto\lab1_1\lab1_1\DESConfig.h(50,30): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "FeistelNetwork.cpp")
+  
+D:\3-Study\Crypto\lab1_1\lab1_1\DESConfig.h(54,56): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "FeistelNetwork.cpp")
+  
+  main.cpp
+D:\3-Study\Crypto\lab1_1\lab1_1\DESConfig.h(4,30): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "main.cpp")
+  
+D:\3-Study\Crypto\lab1_1\lab1_1\DESConfig.h(11,30): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "main.cpp")
+  
+D:\3-Study\Crypto\lab1_1\lab1_1\DESConfig.h(18,30): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "main.cpp")
+  
+D:\3-Study\Crypto\lab1_1\lab1_1\DESConfig.h(29,30): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "main.cpp")
+  
+D:\3-Study\Crypto\lab1_1\lab1_1\DESConfig.h(36,30): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "main.cpp")
+  
+D:\3-Study\Crypto\lab1_1\lab1_1\DESConfig.h(43,30): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "main.cpp")
+  
+D:\3-Study\Crypto\lab1_1\lab1_1\DESConfig.h(50,30): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "main.cpp")
+  
+D:\3-Study\Crypto\lab1_1\lab1_1\DESConfig.h(54,56): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "main.cpp")
+  
