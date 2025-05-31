@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  redis:
+    image: redis:latest
+    container_name: redis_streams
+    ports:
+      - "6379:6379"  # Пробрасываем порт наружу
+    volumes:
+      - redis_data:/data  # Для persistence
+    environment:
+      - REDIS_PASSWORD=1234 # Пароль для аутентификации
+    command: >
+      redis-server
+      --appendonly yes          
+      --maxmemory 1gb           
+      --maxmemory-policy allkeys-lru  
+      --save 60 1000           
+      --protected-mode no        
+
+volumes:
+  redis_data:
